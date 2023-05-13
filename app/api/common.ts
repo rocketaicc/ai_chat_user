@@ -1,6 +1,6 @@
 import {NextRequest} from "next/server";
 
-export const OPENAI_URL = "https://openai.api.ai-whistle.com";
+export const OPENAI_URL = "https://openai.api.ai-rocket.cc";
 
 export async function requestOpenai(req: NextRequest) {
     const body = await req.text()
