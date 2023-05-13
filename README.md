@@ -15,6 +15,6 @@
 - 本地访问http://localhost:3000/?api_key=API_KEY
 - API_KEY从 "[控制台](https://account.ai-rocket.cc/)-个人信息" 获取。
 ![img.png](img.png)
-- 此源码来自于https://github.com/Yidadaa/ChatGPT-Next-Web，如有侵权，请私信我们
+- 此源码来自于 https://github.com/Yidadaa/ChatGPT-Next-Web ，如有侵权，请私信我们立即删除
 
 
